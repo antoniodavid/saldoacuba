@@ -10,7 +10,7 @@ return [
     /*
      * Logo in admin panel header.
      */
-    'logo' => '<b>Lashop</b> admin',
+    'logo' => '<b>Saldo a Cuba</b> admin',
 
     /*
      * Mini-logo in admin panel header.

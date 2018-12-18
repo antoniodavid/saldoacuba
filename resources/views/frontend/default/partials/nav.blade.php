@@ -1,7 +1,7 @@
 
 <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background: #2d3246;">
     <div class="container">
-        <a class="navbar-brand" href="{{ url('/') }}">{{ config('app.name', 'Lashop') }}</a>
+        <a class="navbar-brand" href="{{ url('/') }}">{{ config('app.name', 'Saldoacuba') }}</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

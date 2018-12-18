@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Lashop'),
+    'name' => env('APP_NAME', 'Saldoacuba'),
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://lashop.loc'),
+    'url' => env('APP_URL', 'http://saldoacuba2.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------

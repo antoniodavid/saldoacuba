@@ -5,5 +5,5 @@
         <strong>Version</strong> {!! config('admin.version') !!}
     </div>
     <!-- Default to the left -->
-    <strong>Powered by <a href="https://github.com/utz0r2/lashop" target="_blank">utz0r2</a></strong>
+    <strong>Powered by <a href="https://github.com/antoniodavid/saldoacuba" target="_blank">antoniodavid</a></strong>
 </footer>

@@ -1,7 +1,7 @@
 
 <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background: #2d3246;">
     <div class="container">
-        <a class="navbar-brand" href="<?php echo e(url('/'), false); ?>"><?php echo e(config('app.name', 'Lashop'), false); ?></a>
+        <a class="navbar-brand" href="<?php echo e(url('/'), false); ?>"><?php echo e(config('app.name', 'Saldoacuba'), false); ?></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
